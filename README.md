@@ -1,6 +1,6 @@
 # PHP_REST
 Outputs json from MYSQL database results.
-Used for simulating data containing products from an online marketplace, backed by a MySQL database.  Se DbModel.php
+Used for simulating data containing products from an online marketplace, backed by a MySQL database.  See DbModel.php
 
 Usage:
 
