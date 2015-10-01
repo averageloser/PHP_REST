@@ -10,7 +10,9 @@
  */
  
  /*
-  id 	int(11)	NO 	PRI 	NULL	auto_increment
+ Database name: store
+ Table name: items
+ id 	int(11)	NO 	PRI 	NULL	auto_increment
  price 	decimal(7,2)	NO 		0.00	
  name 	varchar(50)	NO 		NULL	
  description 	text	YES 		NULL	
