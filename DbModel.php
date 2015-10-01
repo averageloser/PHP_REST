@@ -4,6 +4,16 @@
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
+ *
+ * Database Structure below:
+ *
+ */
+ 
+ /*
+  id 	int(11)	NO 	PRI 	NULL	auto_increment
+ price 	decimal(7,2)	NO 		0.00	
+ name 	varchar(50)	NO 		NULL	
+ description 	text	YES 		NULL	
  */
 
 class DbModel {
