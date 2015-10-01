@@ -31,6 +31,10 @@ and open the template in the editor.
                     echo $model->get_all_items();
                 }
             }
+        } else {
+            echo "Get single item: http://localhost/Shop/index.php?id=x  (Where x is the 'id' number representing a row in the database).
+                <p>
+                Get all items:http://localhost/Shop/index.php?id=all";    
         }
         ?>
     </body>
