@@ -9,9 +9,11 @@
 /**
  * Description of Item
  *
+ * UNUSED.
+ * 
  * @author tj
  * 
- * For simplicity, everything is public.
+ * For simplicity, everything is public.  THIS CLASS IS NOT USED.  MAY BE USED IN THE FUTURE.
  */
 class Item {
     public $id;
